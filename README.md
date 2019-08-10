@@ -13,7 +13,7 @@ CHOKIDAR_USEPOLLING=true npm start
 ```
 
 ## TODO
-[ ] Remove not needed dependencies (mainly flux etc)
-[ ] Update dependencies
-[ ] Setup a makefile 
-[ ] Docker local development environment
+- [ ] Remove not needed dependencies (mainly flux etc)
+- [ ] Update dependencies
+- [ ] Setup a makefile 
+- [ ] Docker local development environment
