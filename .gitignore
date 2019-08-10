@@ -1,0 +1,9 @@
+# Files
+*.log
+
+# Folders
+/node_modules/*
+/dist/
+/built/
+/.vscode
+/.idea
